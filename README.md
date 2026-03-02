@@ -25,9 +25,13 @@ O site foi construído com foco em interatividade e organização. As tecnologia
 Neste projeto apliquei os seguintes pontos:
 
 ✔️ Manipulação do DOM com JavaScript;
+
 ✔️ Lógica de programação para validação de respostas;
+
 ✔️ Estruturação semântica com HTML;
+
 ✔️ Estilização com CSS;
+
 ✔️ Organização e clareza na experiência do usuário.
 
 ---
