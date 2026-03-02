@@ -1,4 +1,4 @@
-<h1 align="center">Projeto quizes 🧠</h1>
+<h1 align="center">Projeto Quizes 🧠</h1>
 
 ![Imagem do projeto finalizado](preview.png)
 
