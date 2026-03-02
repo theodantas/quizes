@@ -1,8 +1,8 @@
-<h1 align="center">Projeto QUIZES 🧠</h1>
+<h1 align="center">Projeto quizes 🧠</h1>
 
 ![Imagem do projeto finalizado](preview.png)
 
-<h4 align="center"><a href="https://theodantas.github.io/QUIZES/">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://theodantas.github.io/quizes/">Confira o projeto aqui</a></h4>
 
 ---
 
