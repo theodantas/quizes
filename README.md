@@ -1,6 +1,6 @@
 <h1 align="center">Projeto Quizes 🧠</h1>
 
-![Imagem do projeto finalizado](preview.png)
+![Imagem do projeto finalizado](preview.gif)
 
 <h4 align="center"><a href="https://theodantas.github.io/quizes/">Confira o projeto aqui</a></h4>
 
